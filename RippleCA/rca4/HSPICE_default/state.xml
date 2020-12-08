@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Tue Dec  1 16:36:51 2020-->
+<file-format name="stateData" version="1.0">
+ <attribute type="giString" value="" name="description"/>
+ <attribute type="dmCellView" value="mylibrary/rca4/schematic" name="design"/>
+ <attribute type="giBoolean" value="1" name="enabled"/>
+ <attribute type="giString" value="HSPICE_default" name="name"/>
+ <attribute type="dmCellView" value="mylibrary/rca4/HSPICE_default" name="openaccessState"/>
+ <attribute type="giString" value="HSPICE" name="simulator"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <integration version="1"/>
+</file-format>
